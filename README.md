@@ -1,3 +1,7 @@
+# Furniture Store
+
+![furniture store](https://i.imgur.com/R0TlWKh_d.webp?maxwidth=1520&fidelity=grand)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
